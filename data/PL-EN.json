@@ -1,0 +1,9 @@
+{
+langList: {
+	kupowac: buy
+	isc: go
+	mowic: speak
+	czekac: wait
+	pisac: write
+}
+}
